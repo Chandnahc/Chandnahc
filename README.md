@@ -40,7 +40,7 @@ I love converting abstract, "messy" business logic into clean, validated drag-an
 
 ## 🌐 Socials:
 📫 **Email:** [chandreshgourd@gmail.com](mailto:chandreshgourd@gmail.com)
-💼 **LinkedIn:** [chandresh carpenter](https://www.linkedin.com/in/chandresh-carpenter-3b48171a9/)
+💼 **LinkedIn:** [chandresh carpenter](https://www.linkedin.com/in/chandresh-carpenter)
 📞 **Contact:** +91-7024099003
 
 ## 💻 Tech Stack:
