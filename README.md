@@ -2,7 +2,7 @@
 
 👋 **Hi, I’m Chandresh Carpenter**
 
-🚀 **Software Engineer | React & Java Full Stack | Low-Code Architect**
+🚀 **Full-Stack Engineer building enterprise and configuration-driven applications**
 
 Product-focused engineer with 3 years of experience building scalable, configuration-driven platforms. I specialize in translating abstract business requirements into deterministic execution models and high-performance UI systems. I am currently seeking impactful roles in product-based engineering teams where I can solve complex architectural challenges.
 
