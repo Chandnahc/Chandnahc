@@ -2,9 +2,11 @@
 
 👋 **Hi, I’m Chandresh Carpenter**
 
-🚀 **Full-Stack Engineer building enterprise and configuration-driven applications**
+🚀 **Software Engineer | Java • Spring Boot • React • TypeScript**
 
-Product-focused engineer with 3 years of experience building scalable, configuration-driven platforms. I specialize in translating abstract business requirements into deterministic execution models and high-performance UI systems. I am currently seeking impactful roles in product-based engineering teams where I can solve complex architectural challenges.
+Software Engineer with 3 years of experience building enterprise applications and configuration-driven platforms.
+
+My experience includes developing reusable frontend components, building backend APIs, designing schema-driven systems, and improving application performance. I'm interested in building reliable software products and growing further in backend engineering and system design.
 
 ---
 
