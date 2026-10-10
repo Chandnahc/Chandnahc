@@ -8,7 +8,7 @@ Product-focused engineer with 3 years of experience building scalable, configura
 
 ---
 
-### 👨‍💻 Currently Working On
+### 👨‍💻 Worked On
 * **Business Modeller:** Scaling a large-scale low-code application platform.
 * **Engine Optimization:** Improving system responsiveness through advanced React render control and caching.
 * **Dynamic UI:** Developing Monaco-based editors and schema-driven validation systems.
